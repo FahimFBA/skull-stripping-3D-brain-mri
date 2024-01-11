@@ -1,0 +1,10 @@
+ipykernel
+ants
+ipywidgets
+matplotlib
+opencv-python
+jupyter
+notebook
+antspyx
+SimpleITK
+antspynet
